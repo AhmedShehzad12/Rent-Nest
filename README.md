@@ -289,12 +289,12 @@ This project is created for **educational and portfolio purposes**. Feel free to
 
 <div align="center">
 
-**Mohammad Mahfooj**
+**Ahmed Shehzad**
 
 🎓 Computer Science & Engineering (Artificial Intelligence)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mahfooj12-181717?style=for-the-badge&logo=github)](https://github.com/Mahfooj12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-mahfooj-199012254/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mahfooj12-181717?style=for-the-badge&logo=github)](https://github.com/AhmedShehzad12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-shehzad-2a8b78219/)
 
 </div>
 
