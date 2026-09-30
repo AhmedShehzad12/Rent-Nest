@@ -5,7 +5,7 @@
 ### A modern full-stack platform to discover, book, and manage hotel & rental properties online.
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-success?style=for-the-badge)](https://rent-nest-7eri.vercel.app/listings)
-[![GitHub](https://img.shields.io/badge/GitHub-RentNest-181717?style=for-the-badge&logo=github)](https://github.com/Mahfooj12/RentNest)
+[![GitHub](https://img.shields.io/badge/GitHub-RentNest-181717?style=for-the-badge&logo=github)](https://github.com/AhmedShehzad12/Rent-Nest)
 [![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)](#-license)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](#-contributing)
 
